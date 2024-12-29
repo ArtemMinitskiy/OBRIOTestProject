@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OBRIOTestProject</string>
+    <string name="balance">Balance</string>
+    <string name="top_up_balance">Top up balance</string>
+    <string name="exchange_rate">Exchange rate</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_the_amount_btc">Enter the amount Btc</string>
+</resources>
